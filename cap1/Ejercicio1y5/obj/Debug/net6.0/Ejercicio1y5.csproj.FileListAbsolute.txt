@@ -1,0 +1,15 @@
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\bin\Debug\net6.0\Ejercicio1y5.exe
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\bin\Debug\net6.0\Ejercicio1y5.deps.json
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\bin\Debug\net6.0\Ejercicio1y5.runtimeconfig.json
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\bin\Debug\net6.0\Ejercicio1y5.dll
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\bin\Debug\net6.0\ref\Ejercicio1y5.dll
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\bin\Debug\net6.0\Ejercicio1y5.pdb
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.csproj.AssemblyReference.cache
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.AssemblyInfo.cs
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.dll
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\ref\Ejercicio1y5.dll
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.pdb
+C:\Users\Jeremy\Desktop\tarea#2\Ejercicio1y5\obj\Debug\net6.0\Ejercicio1y5.genruntimeconfig.cache
